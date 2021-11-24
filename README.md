@@ -1,5 +1,5 @@
 😃 My Machine-Learing Projects are stored in Here.
-🏫 This Projects are the assignments of my university class.
+
 
 PA1 - Basic Statistic and Affine Transformation   
 PA2 - **Artifical Neural Network** / Error Function and Weight update   
